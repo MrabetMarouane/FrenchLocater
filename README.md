@@ -1,3 +1,3 @@
-Bnjour,  j'ai développé ce script JavaScript pour  charger dynamiquement les régions, les départements et les communes de France en utilisant l'API Geo de l'administration française.
+Bonjour,  j'ai développé ce script JavaScript pour  charger dynamiquement les régions, les départements et les communes de France en utilisant l'API Geo de l'administration française.
 J'utilise la méthode fetch pour effectuer des requêtes HTTP asynchrones vers les endpoints de l'API Geo, puis je manipule les données JSON renvoyées pour peupler les menus déroulants HTML avec les options appropriées.
 Ce script est conçu pour être intégré dans une page web et offre une expérience utilisateur interactive en permettant de sélectionner une région, un département, puis une commune à partir de menus déroulants interdépendants.
